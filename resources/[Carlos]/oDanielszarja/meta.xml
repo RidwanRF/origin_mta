@@ -1,0 +1,10 @@
+<meta>
+    <oop>true</oop>
+    <script src="renderC.lua" type="client" cache="false"></script>
+    <script src="client.lua" type="client" cache="false"></script>
+    <script src="c_advanced.lua" type="client" cache="false"></script>
+    <script src="c_cirkular.lua" type="client" cache="false"></script>
+    <script src="c_linear.lua" type="client" cache="false"></script>
+    <min_mta_version client="1.5.9" server="1.5.9"></min_mta_version>
+    <file src="cameratool.png"></file>
+</meta>

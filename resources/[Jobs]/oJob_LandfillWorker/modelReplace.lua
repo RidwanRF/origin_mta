@@ -1,0 +1,8 @@
+addEventHandler("onClientResourceStart", resourceRoot, function()
+    txd = engineLoadTXD( "files/models/garbage.txd", 18472 )
+    engineImportTXD(txd, 18472 )
+    dff = engineLoadDFF( "files/models/garbage.dff", 18472 )
+    engineReplaceModel(dff, 18472, true )
+    col = engineLoadCOL( "files/models/garbage.col" )
+    engineReplaceCOL ( col, 18472 )
+end)

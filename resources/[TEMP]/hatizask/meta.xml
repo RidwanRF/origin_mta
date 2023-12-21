@@ -1,0 +1,9 @@
+<meta>
+	
+	<script src="replace.lua" type="client" />
+	
+	
+	<file src="models/gun_para.dff" />
+	<file src="models/gun_para.txd" />
+	
+</meta>

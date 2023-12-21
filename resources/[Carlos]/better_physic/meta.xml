@@ -1,0 +1,5 @@
+<meta>
+<info type="misc" name="better_physics" version="1.4.1" author="midas" />
+	<script src="server.lua"/>
+	<script src="client.lua" type="client"/>
+</meta>

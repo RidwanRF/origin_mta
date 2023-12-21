@@ -1,0 +1,16 @@
+<meta>
+    <oop>true</oop>
+    <script src="renderC.lua" type="client" cache="false"></script>
+    <script src="lotto/sourceG.lua" type="shared" cache="false"></script>
+    <script src="numberpick/sourceG.lua" type="shared" cache="false"></script>
+    <script src="lotto/sourceC.lua" type="client" cache="false"></script>
+    <script src="lotto/sourceS.lua" type="server" cache="false"></script>
+    <script src="numberpick/sourceC.lua" type="client" cache="false"></script>
+    <script src="numberpick/sourceS.lua" type="server" cache="false"></script>
+    <min_mta_version client="1.5.9" server="1.5.9"></min_mta_version>
+    <file src="files/success.mp3"></file>
+    <file src="files/laptop.png"></file>
+    <file src="files/laptop_wallpapper.png"></file>
+    <file src="files/laptop_bet.png"></file>
+    <file src="files/laptop_kocsi.png"></file>
+</meta>

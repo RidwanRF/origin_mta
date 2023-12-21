@@ -1,0 +1,17 @@
+<meta>
+    <script type="server" src="sourceS.lua" />
+    <script type="shared" src="sourceG.lua" />
+    <script type="client" src="sourceC.lua" />
+    
+
+    <file src="fonts/bebasBold.otf"/>
+    <file src="fonts/bebasLight.otf"/>
+    <file src="img/1.png"/>
+    <file src="img/2.png"/>
+    <file src="img/3.png"/>
+    <file src="img/4.png"/>
+    <file src="img/5.png"/>
+    <file src="img/6.png"/>
+    <file src="img/sp1.png"/>
+    <file src="img/sp2.png"/>
+</meta>

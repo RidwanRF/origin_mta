@@ -1,0 +1,6 @@
+<detox>
+    <script src="client.lua" type="client" cache="false" />
+    <file src="tunin.txd" />
+    <file src="tunin.dff" />
+    <file src="tunin.col" />
+</detox>

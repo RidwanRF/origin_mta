@@ -1,0 +1,10 @@
+<meta>
+	
+	<script src="replace.lua" type="client" />
+	
+	
+	<file src="models/cluckinbell_3d.dff" />
+	<file src="models/cluckinbell_3d.col" />
+	<file src="models/cluckinbell_3d.txd" />
+	
+</meta>

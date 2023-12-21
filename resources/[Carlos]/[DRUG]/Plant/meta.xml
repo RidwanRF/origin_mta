@@ -1,0 +1,39 @@
+<meta>
+	<info author="TheDarkQ" version="1.0" type="resource"/>
+  
+	<script src="replace.lua" type="client" />
+
+	<file src="models/Model.txd" />
+	<file src="models/Model.dff" />
+	<file src="models/Model.col" />
+
+	<file src="models/Model.txd" />
+	<file src="models/Plant01.dff" />
+	<file src="models/Plant.col" />
+
+	<file src="models/Model.txd" />
+	<file src="models/Plant02.dff" />
+	<file src="models/Plant.col" />
+
+	<file src="models/Model.txd" />
+	<file src="models/Plant03.dff" />
+	<file src="models/Plant.col" />
+
+	<file src="models/Model.txd" />
+	<file src="models/Plant04.dff" />
+	<file src="models/Plant.col" />
+
+	<file src="models/Model.txd" />
+	<file src="models/Gate.dff" />
+	<file src="models/Gate.col" />
+
+	<file src="models/Model.txd" />
+	<file src="models/CraftingTable.dff" />
+	<file src="models/CraftingTable.col" />
+
+	<file src="models/Model.txd" />
+	<file src="models/Laptop.dff" />
+	<file src="models/Laptop.col" />
+
+
+</meta>

@@ -1,0 +1,7 @@
+<meta>
+    <script src="client.lua" type="client" cache="false" />
+    
+    <file src="szar.dff" />
+    <file src="szar.txd" />
+    <file src="szar.col" />
+</meta>

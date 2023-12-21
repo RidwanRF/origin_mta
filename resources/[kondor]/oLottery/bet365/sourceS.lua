@@ -1,0 +1,10 @@
+connection = exports.oMysql:getDBConnection()
+
+addEventHandler("onResourceStart", resourceRoot, function()
+   local betLaptop = createObject(betLaptopTable[1],betLaptopTable[2],betLaptopTable[3],betLaptopTable[4]-1)
+   setElementData(betLaptop, "bet365:laptop", true)
+   setElementInterior(betLaptop, betLaptopTable[5])
+   setElementDimension(betLaptop, betLaptopTable[6])
+   setElementFrozen(betLaptop, true)
+   setElementRotation(betLaptop,0,0,180)
+end)

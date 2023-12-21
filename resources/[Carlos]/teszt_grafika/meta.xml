@@ -1,0 +1,12 @@
+<meta>
+    <info description="Shader - Car Paint reflect LITE" version="0.1.5" type="script" />
+    <script src="c_car_reflect_lite.lua" type="client" cache="false" />
+    <file src="car_refgrun.fx" type="client" />
+    <file src="car_refgene.fx" type="client" />
+    <file src="mta-helper.fx" type="client" />
+    <file src="images/smallnoise3d.dds" type="client" />
+    
+    <script src="c_kocsik.lua" type="client" cache="false" />
+    <script src="c_onkorilift.lua" type="client" cache="false" />
+    <script src="onkorilift.lua" type="server" />
+</meta>

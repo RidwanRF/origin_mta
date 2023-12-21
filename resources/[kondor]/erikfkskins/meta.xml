@@ -1,0 +1,12 @@
+<meta>
+    <script src="client.lua" type="client" cache="false" />
+
+    <file src="266.dff"/>
+    <file src="266.txd"/>
+        <file src="267.dff"/>
+    <file src="267.txd"/>
+        <file src="280.dff"/>
+    <file src="280.txd"/>
+        <file src="281.dff"/>
+    <file src="281.txd"/>
+</meta>
